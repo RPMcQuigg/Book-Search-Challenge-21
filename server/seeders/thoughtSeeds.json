@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "description": "The first book in the Harry Potter series follows the young wizard Harry as he discovers his magical heritage and begins his education at Hogwarts School of Witchcraft and Wizardry.",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/91Othg2vmQL.jpg",
+    "link": "https://www.amazon.com/Harry-Potter-Sorcerers-Stone-Rowling/dp/059035342X"
+  },
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "description": "In a dystopian future, Katniss Everdeen volunteers to take her sister's place in a brutal competition where teenagers fight to the death on live television.",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/91FQRxJqY6L.jpg",
+    "link": "https://www.amazon.com/Hunger-Games-Book/dp/B003XF1XOQ"
+  },
+  {
+    "title": "Percy Jackson & the Olympians: The Lightning Thief",
+    "author": "Rick Riordan",
+    "description": "After discovering he's the son of Poseidon, Percy Jackson embarks on a quest across America to find Zeus's stolen lightning bolt and prevent a war among the gods.",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51aAQ-7mD1L.jpg",
+    "link": "https://www.amazon.com/Lightning-Thief-Percy-Jackson-Olympians/dp/0786838655"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "description": "Bilbo Baggins, a hobbit, is swept into an epic quest to reclaim the lost Dwarf Kingdom of Erebor from the fearsome dragon Smaug.",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51I8G2MgBEL.jpg",
+    "link": "https://www.amazon.com/Hobbit-J-R-R-Tolkien/dp/054792822X"
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "description": "Hazel Grace Lancaster, a sixteen-year-old cancer patient, meets and falls in love with Augustus Waters, a former basketball player and amputee.",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71ItbRxoYzL.jpg",
+    "link": "https://www.amazon.com/Fault-Stars-John-Green/dp/014242417X"
+  }
+]
